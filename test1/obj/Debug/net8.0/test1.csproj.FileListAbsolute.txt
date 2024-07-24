@@ -1,0 +1,14 @@
+F:\C#專案\test1\bin\Debug\net8.0\test1.exe
+F:\C#專案\test1\bin\Debug\net8.0\test1.deps.json
+F:\C#專案\test1\bin\Debug\net8.0\test1.runtimeconfig.json
+F:\C#專案\test1\bin\Debug\net8.0\test1.dll
+F:\C#專案\test1\bin\Debug\net8.0\test1.pdb
+F:\C#專案\test1\obj\Debug\net8.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#專案\test1\obj\Debug\net8.0\test1.AssemblyInfoInputs.cache
+F:\C#專案\test1\obj\Debug\net8.0\test1.AssemblyInfo.cs
+F:\C#專案\test1\obj\Debug\net8.0\test1.csproj.CoreCompileInputs.cache
+F:\C#專案\test1\obj\Debug\net8.0\test1.dll
+F:\C#專案\test1\obj\Debug\net8.0\refint\test1.dll
+F:\C#專案\test1\obj\Debug\net8.0\test1.pdb
+F:\C#專案\test1\obj\Debug\net8.0\test1.genruntimeconfig.cache
+F:\C#專案\test1\obj\Debug\net8.0\ref\test1.dll
